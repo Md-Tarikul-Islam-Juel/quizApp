@@ -1,0 +1,8 @@
+.row-flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.card-img-div {
+  height: 170px;
+}

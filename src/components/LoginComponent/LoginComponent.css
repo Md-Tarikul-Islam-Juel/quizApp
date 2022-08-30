@@ -1,0 +1,13 @@
+.form-control {
+  background-color: #fef7ec;
+}
+.login-form {
+  margin-top: 6rem;
+}
+.login-form p {
+  margin-top: 2rem;
+}
+.password-error {
+  background-color: #ffe5ff;
+  text-align: center;
+}

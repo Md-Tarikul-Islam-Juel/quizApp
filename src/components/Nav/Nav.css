@@ -1,0 +1,17 @@
+.NavBar {
+  background-color: #ffbe76;
+  padding: 0.6rem 3rem;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.logo {
+  width: 2rem;
+  border-radius: 50%;
+}
+.nav-item {
+  line-height: 2rem;
+}
+.LogIn {
+  margin-left: 1rem;
+}

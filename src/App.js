@@ -1,7 +1,8 @@
 import './App.css';
+import RouterPage from './Routes/RouterPage';
 
 function App() {
-    return <div>hello world</div>;
+    return <RouterPage />;
 }
 
 export default App;

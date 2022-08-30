@@ -1,0 +1,18 @@
+.form-btn {
+  width: 100%;
+  background-color: #e67e22;
+  border: none;
+}
+.form p {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.form-control {
+  background-color: #fef7ec;
+}
+.form-checkbox {
+  margin-top: 2rem;
+}
+.password-error {
+  background-color: #ffe5ff;
+}
